@@ -32,6 +32,10 @@ nav {
   justify-content: space-evenly;
 }
 
+ul {
+  justify-content: space-around;
+}
+
 footer ul {
   display: inline;
 }
@@ -121,19 +125,19 @@ footer ul {
 }
 
 .gray-4 {
-  background-color: #AAA;
+  background-color: #aaa;
 }
 
 .gray-5 {
-  background-color: #CCC;
+  background-color: #ccc;
 }
 
 .gray-6 {
-  background-color: #EEE;
+  background-color: #eee;
 }
 
 .bg-gray {
-  background-color: #E4E4E4;
+  background-color: #e4e4e4;
 }
 
 .center-items {
@@ -190,10 +194,6 @@ footer ul {
   margin: 0 30px;
 }
 
-ul {
-  justify-content: space-around;
-}
-
 .tags {
   width: 20%;
   list-style: none;
@@ -242,7 +242,7 @@ ul {
 
 .browse-all li {
   margin: 10px;
-  background-color: #AAA;
+  background-color: #aaa;
 }
 
 #footer {
