@@ -1,5 +1,5 @@
 * {
-  /* border: solid 1px black; */
+  /* border: solid 1px black;*/
 }
 
 body {
@@ -20,6 +20,31 @@ nav{
   display: flex;
 }
 
+.flex-size-1 {
+  flex: 1;
+}
+
+.flex-size-2 {
+  flex: 2;
+}
+
+.flex-size-3 {
+  flex: 3;
+}
+
+.flex-size-4 {
+  flex: 4;
+}
+
+.flex-size-5 {
+  flex: 5;
+}
+
+.flex-size-6 {
+  flex: 6;
+}
+
+
 .row {
   flex-direction: row;
 }
@@ -29,27 +54,43 @@ nav{
 }
 
 .w-50 {
-  width: 500%;
+  width: 50%;
 }
 
 .h-730 {
   height: 730px;
 }
 
+.h-450 {
+  height: 450px;
+}
+
 .gray-0 {
-  background-color: #383838;
+  background-color: #222;
 }
 
 .gray-1 {
-  background-color: #717171;
+  background-color: #444;
 }
 
 .gray-2 {
-  background-color: #AAAAAA;
+  background-color: #666;
 }
 
 .gray-3 {
-  background-color: #E2E2E2;
+  background-color: #888;
+}
+
+.gray-4 {
+  background-color: #AAA;
+}
+
+.gray-5 {
+  background-color: #CCC;
+}
+
+.gray-6 {
+  background-color: #EEE;
 }
 
 .bg-gray {
@@ -64,9 +105,14 @@ nav{
   justify-content: center;
 }
 
-.img-box {
+.img-box-80-80 {
   width: 80px;
   height: 80px;
+}
+
+.img-box-160-160 {
+  width: 160px;
+  height: 160px;
 }
 
 .mr-30 {
@@ -77,13 +123,17 @@ nav{
   margin-left: 50px;
 }
 
+.margin-30 {
+  margin: 0 30px;
+}
+
 ul {
-  list-style: none;
   justify-content: space-around;
 }
 
 .tags {
   width: 20%;
+  list-style: none;
 }
 
 .nav-element {
