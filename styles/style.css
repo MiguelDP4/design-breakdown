@@ -8,6 +8,10 @@ nav{
   justify-content: space-evenly;
 }
 
+footer ul {
+  display: inline;
+}
+
 .full-width {
   width: 100%;
 }
