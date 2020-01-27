@@ -3,6 +3,30 @@ body {
   margin: 0;
 }
 
+p {
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 45px;
+}
+
+h3 {
+  font-size: 40px;
+}
+
+h4 {
+  font-size: 35px;
+}
+
+h5 {
+  font-size: 30px;
+}
+
 nav{
   width: 100%;
   justify-content: space-evenly;
@@ -216,7 +240,26 @@ ul {
   flex-wrap: wrap;
 }
 
-#browse-all li {
+.browse-all li {
   margin: 10px;
   background-color: #AAA;
+}
+
+#footer {
+  width: 90%;
+  justify-content: space-around;
+}
+
+#footer-p p {
+  text-align: center;
+  line-height: 40px;
+}
+
+#footer-links {
+  width: 30%;
+}
+
+#footer-links li {
+  display: inline;
+  line-height: 30px;
 }
