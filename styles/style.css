@@ -3,13 +3,13 @@ body {
   margin: 0;
 }
 
-.full-width {
-  width: 100%;
-}
-
 nav{
   width: 100%;
   justify-content: space-evenly;
+}
+
+.full-width {
+  width: 100%;
 }
 
 .flex-container {
@@ -58,6 +58,22 @@ nav{
 
 .h-450 {
   height: 450px;
+}
+
+.h-400 {
+  height: 400px;
+}
+
+.h-45 {
+  height: 45px;
+}
+
+.h-45 button {
+  height: 100%;
+}
+
+.h-45 input {
+  height: 100%;
 }
 
 .gray-0 {
@@ -175,6 +191,11 @@ ul {
 
 #just-released div{
   height: 400px;
+  width: 500px;
+  margin-top: 30px;
+}
+
+#smashing-newsletter div{
   width: 500px;
   margin-top: 30px;
 }
