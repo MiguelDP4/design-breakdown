@@ -44,7 +44,6 @@ nav{
   flex: 6;
 }
 
-
 .row {
   flex-direction: row;
 }
@@ -128,6 +127,11 @@ nav{
   margin-bottom: 50px;
 }
 
+.py {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
 .margin-30 {
   margin: 0 30px;
 }
@@ -199,4 +203,3 @@ ul {
   width: 500px;
   margin-top: 30px;
 }
-
