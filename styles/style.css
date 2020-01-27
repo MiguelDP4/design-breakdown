@@ -211,3 +211,12 @@ ul {
 .more-items {
   flex: 1;
 }
+
+#browse-all  {
+  flex-wrap: wrap;
+}
+
+#browse-all li {
+  margin: 10px;
+  background-color: #AAA;
+}
