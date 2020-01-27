@@ -27,7 +27,7 @@ h5 {
   font-size: 30px;
 }
 
-nav{
+nav {
   width: 100%;
   justify-content: space-evenly;
 }
@@ -200,7 +200,7 @@ ul {
 }
 
 .nav-element {
-  background-color: rgb(180,180,180);
+  background-color: rgb(180, 180, 180);
   height: 150px;
   flex: 1;
 }
@@ -209,7 +209,7 @@ ul {
   height: 200px;
 }
 
-.background-gray-1{
+.background-gray-1 {
   background-color: #eee;
 }
 
@@ -217,13 +217,13 @@ ul {
   height: 250px;
 }
 
-#just-released div{
+#just-released div {
   height: 400px;
   width: 500px;
   margin-top: 30px;
 }
 
-#smashing-newsletter div{
+#smashing-newsletter div {
   width: 500px;
   margin-top: 30px;
 }
@@ -236,7 +236,7 @@ ul {
   flex: 1;
 }
 
-#browse-all  {
+#browse-all {
   flex-wrap: wrap;
 }
 
