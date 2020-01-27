@@ -114,6 +114,10 @@ nav{
   height: 160px;
 }
 
+.mb-30 {
+  margin-bottom: 30px;
+}
+
 .mr-30 {
   margin-right: 30px;
 }
@@ -202,4 +206,12 @@ ul {
   height: 400px;
   width: 500px;
   margin-top: 30px;
+}
+
+#more {
+  flex-wrap: wrap;
+}
+
+.more-items {
+  flex: 1;
 }
