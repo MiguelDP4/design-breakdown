@@ -1,0 +1,269 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#logo {
+  height: 150px;
+}
+
+p {
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 45px;
+}
+
+h3 {
+  font-size: 40px;
+}
+
+h4 {
+  font-size: 35px;
+}
+
+h5 {
+  font-size: 30px;
+}
+
+nav {
+  width: 100%;
+  justify-content: space-evenly;
+}
+
+ul {
+  justify-content: space-around;
+}
+
+footer ul {
+  display: inline;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.flex-container {
+  display: flex;
+}
+
+.flex-size-1 {
+  flex: 1;
+}
+
+.flex-size-2 {
+  flex: 2;
+}
+
+.flex-size-3 {
+  flex: 3;
+}
+
+.flex-size-4 {
+  flex: 4;
+}
+
+.flex-size-5 {
+  flex: 5;
+}
+
+.flex-size-6 {
+  flex: 6;
+}
+
+.row {
+  flex-direction: row;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.w-50 {
+  width: 50%;
+}
+
+.h-730 {
+  height: 730px;
+}
+
+.h-450 {
+  height: 450px;
+}
+
+.h-400 {
+  height: 400px;
+}
+
+.h-45 {
+  height: 45px;
+}
+
+.h-45 button {
+  height: 100%;
+}
+
+.h-45 input {
+  height: 100%;
+}
+
+.gray-0 {
+  background-color: #222;
+}
+
+.gray-1 {
+  background-color: #444;
+}
+
+.gray-2 {
+  background-color: #666;
+}
+
+.gray-3 {
+  background-color: #888;
+}
+
+.gray-4 {
+  background-color: #aaa;
+}
+
+.gray-5 {
+  background-color: #ccc;
+}
+
+.gray-6 {
+  background-color: #eee;
+}
+
+.bg-gray {
+  background-color: #e4e4e4;
+}
+
+.center-items {
+  align-items: center;
+}
+
+.center-contents {
+  justify-content: center;
+}
+
+.text-center {
+  width: 100%;
+  text-align: center;
+}
+
+.img-box-80-80 {
+  width: 80px;
+  height: 80px;
+}
+
+.img-box-160-160 {
+  width: 160px;
+  height: 160px;
+}
+
+.img-box-320-320 {
+  width: 320px;
+  height: 320px;
+}
+
+.mb-30 {
+  margin-bottom: 30px;
+}
+
+.mr-30 {
+  margin-right: 30px;
+}
+
+.ml-50 {
+  margin-left: 50px;
+}
+
+.my-50 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.py {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.margin-30 {
+  margin: 0 30px;
+}
+
+.tags {
+  width: 20%;
+  list-style: none;
+}
+
+.nav-element {
+  background-color: rgb(180, 180, 180);
+  height: 150px;
+  flex: 1;
+}
+
+.latest-article {
+  height: 200px;
+}
+
+.background-gray-1 {
+  background-color: #eee;
+}
+
+#see-all-articles {
+  height: 250px;
+}
+
+#just-released div {
+  height: 400px;
+  width: 500px;
+  margin-top: 30px;
+}
+
+#smashing-newsletter div {
+  width: 500px;
+  margin-top: 30px;
+}
+
+#more {
+  flex-wrap: wrap;
+}
+
+.more-items {
+  flex: 1;
+}
+
+#browse-all {
+  flex-wrap: wrap;
+}
+
+.browse-all li {
+  margin: 10px;
+  background-color: #aaa;
+}
+
+#footer {
+  width: 90%;
+  justify-content: space-around;
+}
+
+#footer-p p {
+  text-align: center;
+  line-height: 40px;
+}
+
+#footer-links {
+  width: 30%;
+}
+
+#footer-links li {
+  display: inline;
+  line-height: 30px;
+}
