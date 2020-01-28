@@ -3,6 +3,10 @@ body {
   margin: 0;
 }
 
+#logo {
+  height: 150px;
+}
+
 p {
   font-size: 20px;
 }
