@@ -16,11 +16,11 @@
 
 👤 **Miguel Dubois (Mike)**
 
-- Github: [@githubhandle](https://github.com/MiguelDP4)
+- Github: [@MiguelDP4](https://github.com/MiguelDP4)
 
 👤 **Solomon Appier-Sign**
 
-- Github: [@githubhandle](https://github.com/appiersign)
+- Github: [@appiersign](https://github.com/appiersign)
 - Twitter: [@appiersign](https://twitter.com/appiersign)
 - Linkedin: [linkedin](https://www.linkedin.com/in/solomon-appier-sign/)
 
